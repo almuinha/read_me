@@ -15,7 +15,7 @@ Now as a Data Engineer, completing the second postgraduate degree in Data Scienc
 **Background in:** Python, Machine Learning and Powershell.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/carolinealmuinha)
+* [LinkedIn](https://www.linkedin.com/in/caroline-almuinha)
 
 ## Projetos:
 Some projects in which I performed or participated:
