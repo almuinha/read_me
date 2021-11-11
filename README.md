@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="main-image-python-1.jpg" >
+  <img src="codes.png" >
 </p>
 
 # Caroline Almuinha
