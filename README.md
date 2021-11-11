@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="codes.png" >
+  <img src="cap_codes.jpg" >
 </p>
 
 # Caroline Almuinha
